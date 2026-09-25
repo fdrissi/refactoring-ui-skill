@@ -1,0 +1,6 @@
+# Code owners: every change requires review from the maintainer.
+#
+# The "Protect main" repository ruleset requires review from Code Owners,
+# so these reviews are enforced.
+
+*    @fdrissi
